@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonx9" alt="anonx9" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and ReactJS**
+- 🌱 I'm currently improving my skills in **Flutter**
 
 - 💬 Ask me about **Flutter**
 
