@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A junior backend and mobile developer from Cameroon</h3>
+<h3 align="center">A junior web fullstack and mobile developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonx9&label=Profile%20views&color=0e75b6&style=flat" alt="anonx9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonx9" alt="anonx9" /></a> </p>
 
-- 🌱 I'm currently improving my skills in **Flutter**
+- 🌱 I'm currently improving my skills in **NextJs**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **avaikamarcel@gmail.com**
 
-- ⚡ Fun fact **I am an Introvert who likes to create stories !**
+- ⚡ Fun fact **I am an Introvert who like to create stories !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
