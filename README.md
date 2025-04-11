@@ -58,6 +58,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MNametissa/MNametissa/output/snake.svg" alt="Snake animation" />
-
 ###
