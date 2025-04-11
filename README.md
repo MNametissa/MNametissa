@@ -1,11 +1,11 @@
-<h2 align="left">👋 Hello ! Moi c’est Steve FASSEU — Ingénieur Logiciel et Formateur, curieux de nature et passionné par les technologies web et cloud.</h2>
+<h2 align="left">Hi 👋! I'm Marcel NAMETISSA, Software Engineer from Cameroon — building clean, bold apps with an astronaut’s mindset 🚀</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SFasseu/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/MNametissa/count.svg?"  />
 </div>
 
 ###
@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SFasseu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false&custom_title=Statistiques%20publiques" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SFasseu&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Langages%20sur%20projets%20publiques" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MNametissa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false&custom_title=Statistiques%20publiques" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MNametissa&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Langages%20sur%20projets%20publiques" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SFasseu/SFasseu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MNametissa/MNametissa/output/snake.svg" alt="Snake animation" />
 
 ###
