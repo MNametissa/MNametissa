@@ -6,93 +6,73 @@
   ██║██║ ╚████║██║     ██║██║ ╚████║██║   ██║   ███████╗
   ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚══════╝
 
-  you found the signal.
-  the void builds back.
+  you found the signal. the void builds back.
 -->
 
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:1A1A1A,100:C9A227&height=150&section=header&text=無限&fontSize=60&fontColor=D4C5A9&animation=fadeIn&fontAlignY=55)
+
 # M̷N̵A̸M̴E̵T̶I̷S̵S̷A̶
 
-**無限** · mugen
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&random=false&width=500&lines=%3E+building+tools+that+think;%3E+sometimes+they+build+back;%3E+%5B+identity%3A+abstract+%5D+%5B+output%3A+concrete+%5D;%3E+writing+code+between+the+noise)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&random=false&width=435&lines=building+tools+that+think;sometimes+they+build+back;%5B+identity%3A+abstract+%5D+%5B+output%3A+concrete+%5D)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-## // current_signal
+<div align="center">
 
-```
-┌──────────────────────────────────────┐
-│  focus : odoo 19 + automation        │
-│  stack : python · typescript · dart  │
-│  mode  : building in silence         │
-└──────────────────────────────────────┘
-```
+`python` · `typescript` · `dart` · `flutter` · `odoo` · `postgresql` · `n8n` · `docker`
+
+</div>
+
+<br>
 
 ---
 
-## // artifacts
+<br>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### [swoosh](https://github.com/MNametissa/swoosh)
-`git workflow automation`
-> init · commit · release · deploy · sync
+<a href="https://github.com/MNametissa/swoosh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MNametissa&repo=swoosh&theme=transparent&bg_color=00000000&title_color=C9A227&text_color=D4C5A9&icon_color=C9A227&border_color=4A4A4A" />
+</a>
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### [o2switch-cli](https://github.com/MNametissa/o2switch-cli)
-`cpanel & dns management`
-> domains · subdomains · dns records
+<a href="https://github.com/MNametissa/o2switch-cli">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MNametissa&repo=o2switch-cli&theme=transparent&bg_color=00000000&title_color=C9A227&text_color=D4C5A9&icon_color=C9A227&border_color=4A4A4A" />
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### [openclaude](https://github.com/MNametissa/openclaude)
-`multi-provider coding agent`
-> openai · gemini · deepseek · ollama
+<a href="https://github.com/MNametissa/openclaude">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MNametissa&repo=openclaude&theme=transparent&bg_color=00000000&title_color=C9A227&text_color=D4C5A9&icon_color=C9A227&border_color=4A4A4A" />
+</a>
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### [ui-ux-pro-max-skill](https://github.com/MNametissa/ui-ux-pro-max-skill)
-`ai-powered design intelligence`
-> 67 styles · 161 palettes · 57 fonts
+<a href="https://github.com/MNametissa/ui-ux-pro-max-skill">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MNametissa&repo=ui-ux-pro-max-skill&theme=transparent&bg_color=00000000&title_color=C9A227&text_color=D4C5A9&icon_color=C9A227&border_color=4A4A4A" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## // frequencies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-1A1A1A?style=for-the-badge&logo=python&logoColor=C9A227)
-![TypeScript](https://img.shields.io/badge/typescript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=C9A227)
-![Dart](https://img.shields.io/badge/dart-1A1A1A?style=for-the-badge&logo=dart&logoColor=C9A227)
-![Flutter](https://img.shields.io/badge/flutter-1A1A1A?style=for-the-badge&logo=flutter&logoColor=C9A227)
-![Odoo](https://img.shields.io/badge/odoo-1A1A1A?style=for-the-badge&logo=odoo&logoColor=C9A227)
-![PostgreSQL](https://img.shields.io/badge/postgresql-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=C9A227)
-![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=C9A227)
-![Docker](https://img.shields.io/badge/docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=C9A227)
-
-</div>
+<br>
 
 ---
 
-## // stats
+<br>
 
 <div align="center">
 
@@ -101,40 +81,28 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNametissa/MNametissa/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNametissa/MNametissa/output/snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MNametissa/MNametissa/output/snake.svg" />
-</picture>
+<a href="mailto:avaikamarcel@gmail.com">
+<img src="https://img.shields.io/badge/avaikamarcel@gmail.com-1A1A1A?style=for-the-badge&logo=gmail&logoColor=C9A227" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Douala,_Cameroon-1A1A1A?style=for-the-badge&logo=googlemaps&logoColor=C9A227" />
 
 </div>
 
----
-
-## // transmission
-
-```
-signal    : avaikamarcel@gmail.com
-frequency : active
-location  : 4.05°N, 9.77°E
-```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/signal-1A1A1A?style=for-the-badge&logo=gmail&logoColor=C9A227&label=avaikamarcel%40gmail.com)](mailto:avaikamarcel@gmail.com)
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-```
-無限
-```
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:C9A227&height=80&section=footer)
 
 </div>
