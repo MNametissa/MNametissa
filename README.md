@@ -17,11 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&random=false&width=435&lines=building+tools+that+think;sometimes+they+build+back;%5B+identity%3A+abstract+%5D+%5B+output%3A+concrete+%5D)](https://git.io/typing-svg)
 
-</div>
-
 <br>
-
-<div align="center">
 
 `python` · `typescript` · `dart` · `flutter` · `odoo` · `postgresql` · `n8n` · `docker`
 
@@ -67,6 +63,30 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MNametissa&bg_color=00000000&color=D4C5A9&line=C9A227&point=C9A227&area_color=C9A227&area=true&hide_border=true&custom_title=Activity" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MNametissa&theme=darkhub&no-frame=true&no-bg=true&column=4&title_color=C9A227&icon_color=C9A227&text_color=D4C5A9&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
+</div>
 
 <br>
 
